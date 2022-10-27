@@ -1,5 +1,5 @@
 # SMC or Insyde BMC software stack golang build Redfish tool
-Golang wrote Supermicro or Insyde SuperVise Redfish app.  Easy, no dependence in Ubuntu, CentOS and Windows
+Golang wrote Supermicro or Insyde SuperVise Redfish app.  Easy, no dependency in Ubuntu, CentOS, MacOS and Windows.
 
 $ sudo ./smc_sysinfoMAC 10.100.200.300 root root system | jq
 
